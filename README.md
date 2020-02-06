@@ -2,7 +2,7 @@
 The application is very simple, is about filling a credit card info which reflects each value into a credit card layout as shown below.
 
 ![Image of challenge](demo.gif)
-￼
+
 ### 🧑‍🎨 Layout 
 + What to do?
     - Re-create it similar, be careful with the details (the little animations).
@@ -16,7 +16,7 @@ The application is very simple, is about filling a credit card info which reflec
     - Stand out ( in the card layout ) the info that the user is typing.
     - Detect the the financial entity with the first digits of the card number, in this case detect VISA **( 4\*\*\* )**, MASTERCARD **( [ 51 | 52 | 53 | 54 | 55 ] \*\* )** and AMEX **( 3\*\*\* )**. 
 + How to do it?
-    - Use React and some state manager like Context, Rx or Redux.
+    - Use React and some state manager.
     - Make it like components, we are also checking the file structure.
 ### 🤩 Extra Point 
-A good programmer always tests his code, so give it a chance to test your components using Jest or Mocha.
+A good programmer always tests his code, so give it a chance to test your components.
