@@ -16,7 +16,7 @@ The application is very simple, is about filling a credit card info which reflec
     - Stand out ( in the card layout ) the info that the user is typing.
     - Detect the the financial entity with the first digits of the card number, in this case detect VISA **( 4\*\*\* )**, MASTERCARD **( [ 51 | 52 | 53 | 54 | 55 ] \*\* )** and AMEX **( 3\*\*\* )**. 
 + How to do it?
-    - Use React and some state manager.
+    - Use React, typescript and some state manager.
     - Make it like components, we are also checking the file structure.
 ### 🤩 Extra Point 
 A good programmer always tests his code, so give it a chance to test your components.
